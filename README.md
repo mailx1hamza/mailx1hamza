@@ -42,19 +42,27 @@ I specialize in transforming raw data into meaningful insights that drive smarte
 ## 📊 Featured Visualizations  
 
 ### 🔹 Tableau Dashboard  
+<a href="https://public.tableau.com/views/_ElectricVehiclePopulationData/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link">
 <img width="1599" height="787" alt="Electric" src="https://github.com/user-attachments/assets/5776083f-4379-4bad-b257-3160bf6e09c6" />
+  <a/>
 
 ---
+<a href = "https://public.tableau.com/views/CustomerComplaint_/Overview?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link">
 <img width="1920" height="1030" alt="Customer" src="https://github.com/user-attachments/assets/cee860cf-f27f-4e1d-8dce-91a8465bc4c1" />
+<a/>
 
  ---
 <img width="959" height="444" alt="Customer Complaint Tableau 2" src="https://github.com/user-attachments/assets/0f8aa118-19a5-4a4f-96a0-35ec5165d7ba" />
 
  ---
+<a href = "https://public.tableau.com/views/HRReportTableau_1/Home?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link">
 <img width="1920" height="1011" alt="HR_Data" src="https://github.com/user-attachments/assets/0aaf12d4-f621-4924-804a-9c5b40a67fd5" />
+  <a/>
 
 ---
+<a href = "">
 <img width="1916" height="1024" alt="HR_Data_2" src="https://github.com/user-attachments/assets/b163ad6f-1793-48d6-9946-4008dff84b82" />
+<a/>
 
 ---
 
