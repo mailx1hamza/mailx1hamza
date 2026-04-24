@@ -58,6 +58,8 @@ I specialize in transforming raw data into meaningful insights that drive smarte
 ![Tableau Viz](<img width="1916" height="1024" alt="HR_Data_2" src="https://github.com/user-attachments/assets/69fbd96d-91a0-4ced-9986-6ba8a42294dd" />
 ) 
 
+<img width="1916" height="1024" alt="HR_Data_2" src="https://github.com/user-attachments/assets/b163ad6f-1793-48d6-9946-4008dff84b82" />
+
 
 ### 🔹 Power BI Dashboard  
 ![Power BI Viz](YOUR_POWERBI_IMAGE_LINK)  
