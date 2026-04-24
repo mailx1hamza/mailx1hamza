@@ -52,7 +52,9 @@ I specialize in transforming raw data into meaningful insights that drive smarte
 <a/>
 
  ---
+ <a href ="https://public.tableau.com/views/CustomerComplaint_____/Issues?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link">
 <img width="959" height="444" alt="Customer Complaint Tableau 2" src="https://github.com/user-attachments/assets/0f8aa118-19a5-4a4f-96a0-35ec5165d7ba" />
+<a/>
 
  ---
 <a href = "https://public.tableau.com/views/HRReportTableau_1/Home?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link">
@@ -60,7 +62,7 @@ I specialize in transforming raw data into meaningful insights that drive smarte
   <a/>
 
 ---
-<a href = "">
+<a href = "https://public.tableau.com/views/HRReportTableau2/Extra?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link">
 <img width="1916" height="1024" alt="HR_Data_2" src="https://github.com/user-attachments/assets/b163ad6f-1793-48d6-9946-4008dff84b82" />
 <a/>
 
