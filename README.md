@@ -101,13 +101,12 @@ I specialize in transforming raw data into meaningful insights that drive smarte
 <img width="1167" height="892" alt="Deloitte" src="https://github.com/user-attachments/assets/3374f471-6f3c-4579-a010-1110e5dcc598" />
 
 ---
-
+- 🏅 **Deloitte Data Analytics Job Simulation**
 <img width="1196" height="891" alt="Deliotte" src="https://github.com/user-attachments/assets/cefe1e95-b1c1-4417-b203-0c98ba1c0505" />
 
 
 - 🏅 **Cisco Networking Academy – Certificate of Completion**  
-  🔗 [View Certificate](YOUR_CISCO_CERT_LINK)  
-  ![Cisco Certificate](YOUR_CISCO_CERT_IMAGE)
+
 
 ---
 
