@@ -43,35 +43,53 @@ I specialize in transforming raw data into meaningful insights that drive smarte
 
 ### 🔹 Tableau Dashboard  
 <img width="1599" height="787" alt="Electric" src="https://github.com/user-attachments/assets/5776083f-4379-4bad-b257-3160bf6e09c6" />
- 
+
+---
 <img width="1920" height="1030" alt="Customer" src="https://github.com/user-attachments/assets/cee860cf-f27f-4e1d-8dce-91a8465bc4c1" />
- 
+
+ ---
 <img width="959" height="444" alt="Customer Complaint Tableau 2" src="https://github.com/user-attachments/assets/0f8aa118-19a5-4a4f-96a0-35ec5165d7ba" />
- 
+
+ ---
 <img width="1920" height="1011" alt="HR_Data" src="https://github.com/user-attachments/assets/0aaf12d4-f621-4924-804a-9c5b40a67fd5" />
 
+---
 <img width="1916" height="1024" alt="HR_Data_2" src="https://github.com/user-attachments/assets/b163ad6f-1793-48d6-9946-4008dff84b82" />
 
 
 ### 🔹 Power BI Dashboard  
-![Power BI Viz](YOUR_POWERBI_IMAGE_LINK)  
-🔗 [View Report](YOUR_POWERBI_LINK)
+
+<img width="1178" height="660" alt="bankChurnpower_bi" src="https://github.com/user-attachments/assets/a386783b-a8ad-4fd2-a6a6-a908c0c19e7d" />
+
+---
+<img width="1179" height="661" alt="Bank_churn_powerbi" src="https://github.com/user-attachments/assets/e1cad8c0-7ede-482f-9f09-a28a7f1132cb" />
+
+---
+<img width="1182" height="663" alt="Airline_power_bi" src="https://github.com/user-attachments/assets/666f2ad8-535a-43b5-990c-62a31f2af4e7" />
+
+---
+
+<img width="1185" height="668" alt="Sales_powerbi" src="https://github.com/user-attachments/assets/bd1853ee-65df-4cc8-af37-a1b0c3fa9a10" />
 
 ### 🔹 Excel Dashboard  
-![Excel Viz](YOUR_EXCEL_IMAGE_LINK)  
-🔗 [View Project](YOUR_EXCEL_LINK)
+
+<img width="1724" height="915" alt="Sales_and_Profit_excel" src="https://github.com/user-attachments/assets/5ab9e9fe-3119-4489-a8e7-d88f59f6412c" />
+
+---
+<img width="1919" height="1008" alt="Sales_Excel" src="https://github.com/user-attachments/assets/8564e3a2-b621-4ff7-8ba0-bf6b13a0a126" />
+
 
 ---
 
 ## 🎓 Certifications  
 
 - 🏅 **SQL Certificate – HackerRank**  
-  🔗 [View Certificate](https://www.hackerrank.com/certificates/iframe/addafa8695c3)  
-  ![SQL Certificate](https://eu.docworkspace.com/d/sbRadmEMvw8WWnQe_3spq7glyzs5ynk96n0)
+<img width="1167" height="892" alt="Deloitte" src="https://github.com/user-attachments/assets/3374f471-6f3c-4579-a010-1110e5dcc598" />
 
-- 🏅 **Deloitte Data Analytics Job Simulation**  
-  🔗 [View Certificate](YOUR_DELOITTE_CERT_LINK)  
-  ![Deloitte Certificate](YOUR_DELOITTE_CERT_IMAGE)
+---
+
+<img width="1196" height="891" alt="Deliotte" src="https://github.com/user-attachments/assets/cefe1e95-b1c1-4417-b203-0c98ba1c0505" />
+
 
 - 🏅 **Cisco Networking Academy – Certificate of Completion**  
   🔗 [View Certificate](YOUR_CISCO_CERT_LINK)  
@@ -101,10 +119,9 @@ If you have a project, idea, or opportunity, let’s build something impactful t
 ---
 
 ## 🌐 Connect With Me  
-
-- 💼 LinkedIn: [YOUR_LINKEDIN_LINK]  
+ 
 - 📧 Email: mailx0hamza@gmail.com  
-- 🐦 Twitter/X: [YOUR_TWITTER_LINK]  
+ 
 - 🌍 Portfolio: https://ritoforeigner13.github.io/My-Portfolio/
 
 ---
