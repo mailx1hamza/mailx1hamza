@@ -42,8 +42,22 @@ I specialize in transforming raw data into meaningful insights that drive smarte
 ## 📊 Featured Visualizations  
 
 ### 🔹 Tableau Dashboard  
-![Tableau Viz](YOUR_TABLEAU_IMAGE_LINK)  
+![Tableau Viz](<img width="1599" height="787" alt="Electric" src="https://github.com/user-attachments/assets/5776083f-4379-4bad-b257-3160bf6e09c6" />
+)  
 🔗 [View Interactive Dashboard](YOUR_TABLEAU_LINK)
+ 
+![Tableau Viz](<img width="1920" height="1030" alt="Customer" src="https://github.com/user-attachments/assets/cee860cf-f27f-4e1d-8dce-91a8465bc4c1" />
+)  
+ 
+![Tableau Viz](<img width="959" height="444" alt="Customer Complaint Tableau 2" src="https://github.com/user-attachments/assets/0f8aa118-19a5-4a4f-96a0-35ec5165d7ba" />
+) 
+ 
+![Tableau Viz](<img width="1920" height="1011" alt="HR_Data" src="https://github.com/user-attachments/assets/0aaf12d4-f621-4924-804a-9c5b40a67fd5" />
+) 
+ 
+![Tableau Viz](<img width="1916" height="1024" alt="HR_Data_2" src="https://github.com/user-attachments/assets/69fbd96d-91a0-4ced-9986-6ba8a42294dd" />
+) 
+
 
 ### 🔹 Power BI Dashboard  
 ![Power BI Viz](YOUR_POWERBI_IMAGE_LINK)  
