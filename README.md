@@ -56,6 +56,11 @@ I specialize in transforming raw data into meaningful insights that drive smarte
 ---
 <img width="1916" height="1024" alt="HR_Data_2" src="https://github.com/user-attachments/assets/b163ad6f-1793-48d6-9946-4008dff84b82" />
 
+---
+
+
+
+---
 
 ### 🔹 Power BI Dashboard  
 
@@ -71,12 +76,21 @@ I specialize in transforming raw data into meaningful insights that drive smarte
 
 <img width="1185" height="668" alt="Sales_powerbi" src="https://github.com/user-attachments/assets/bd1853ee-65df-4cc8-af37-a1b0c3fa9a10" />
 
+---
+
+
+
+---
+
 ### 🔹 Excel Dashboard  
 
 <img width="1724" height="915" alt="Sales_and_Profit_excel" src="https://github.com/user-attachments/assets/5ab9e9fe-3119-4489-a8e7-d88f59f6412c" />
 
 ---
 <img width="1919" height="1008" alt="Sales_Excel" src="https://github.com/user-attachments/assets/8564e3a2-b621-4ff7-8ba0-bf6b13a0a126" />
+
+---
+
 
 
 ---
@@ -94,6 +108,9 @@ I specialize in transforming raw data into meaningful insights that drive smarte
 - 🏅 **Cisco Networking Academy – Certificate of Completion**  
   🔗 [View Certificate](YOUR_CISCO_CERT_LINK)  
   ![Cisco Certificate](YOUR_CISCO_CERT_IMAGE)
+
+---
+
 
 ---
 
